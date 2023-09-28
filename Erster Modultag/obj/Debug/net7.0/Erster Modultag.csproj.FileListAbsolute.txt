@@ -1,0 +1,15 @@
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/bin/Debug/net7.0/Erster Modultag
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/bin/Debug/net7.0/Erster Modultag.deps.json
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/bin/Debug/net7.0/Erster Modultag.runtimeconfig.json
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/bin/Debug/net7.0/Erster Modultag.dll
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/bin/Debug/net7.0/Erster Modultag.pdb
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/Erster Modultag.csproj.AssemblyReference.cache
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/Erster Modultag.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/Erster Modultag.AssemblyInfoInputs.cache
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/Erster Modultag.AssemblyInfo.cs
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/Erster Modultag.csproj.CoreCompileInputs.cache
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/Erster Modultag.dll
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/refint/Erster Modultag.dll
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/Erster Modultag.pdb
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/Erster Modultag.genruntimeconfig.cache
+/Users/luisatschannen/Desktop/Modul_Grunlagen Programmieren FHGR_Programmierprojekte/Erster Modultag/Erster Modultag/obj/Debug/net7.0/ref/Erster Modultag.dll

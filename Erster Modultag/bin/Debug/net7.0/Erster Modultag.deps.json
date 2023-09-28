@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Erster Modultag/1.0.0": {
+        "runtime": {
+          "Erster Modultag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Erster Modultag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
